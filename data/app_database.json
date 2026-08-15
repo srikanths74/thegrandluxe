@@ -1,0 +1,1117 @@
+{
+  "siteText": {
+    "heroTitle": "Grand Luxe Hotel & Resort",
+    "heroSubtitle": "Where Luxury Meets Timeless Elegance ",
+    "heroTagline": "Experience unparalleled comfort in the heart of the city",
+    "aboutTitle": "A Legacy of Extraordinary Hospitality",
+    "aboutDescription": "For over three decades, Grand Luxe has been the preferred destination for discerning travelers seeking an unmatched blend of luxury, comfort, and bespoke service.",
+    "contactEmail": "concierge@grandluxe.com",
+    "contactPhone": "+91 7418790420",
+    "contactAddress": "1 Palace Gardens Road, Chennai, Tamil Nadu 600001",
+    "footerTagline": "Redefining luxury hospitality since 1923."
+  },
+  "adminCredentials": {
+    "username": "admin",
+    "email": "srikanthstephen2007@gmail.com",
+    "password": "stephen@1235",
+    "role": "Super Admin & Hotel Director"
+  },
+  "suites": [
+    {
+      "id": "room-101",
+      "name": "Royal Oceanfront Deluxe",
+      "category": "Deluxe",
+      "tagline": "Panoramic coastal luxury with private balcony sunbed",
+      "pricePerNight": 8500,
+      "rating": 4.9,
+      "reviewsCount": 128,
+      "sqft": 550,
+      "maxGuests": 2,
+      "bedType": "1 King Bed",
+      "view": "Oceanfront Sunset",
+      "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Immerse yourself in coastal elegance. Features floor-to-ceiling soundproof windows, marble bathroom with rainfall shower, automated black-out shades, and premium sound systems.",
+      "amenities": [
+        "King Pillowtop Mattress",
+        "Private Ocean Balcony",
+        "Marble Bath & Rain Shower",
+        "Espresso Bar & Minibar",
+        "24/7 Butler Service",
+        "High-Speed Wi-Fi 6"
+      ],
+      "featured": true
+    },
+    {
+      "id": "room-202",
+      "name": "Horizon Executive Suite",
+      "category": "Executive Suite",
+      "tagline": "Spacious living suite with deep soaking spa tub",
+      "pricePerNight": 14500,
+      "rating": 4.95,
+      "reviewsCount": 94,
+      "sqft": 850,
+      "maxGuests": 3,
+      "bedType": "1 Emperor King + Daybed",
+      "view": "Skyline & Ocean Dual View",
+      "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Designed for executive travelers and couples seeking ultimate space. Includes a secluded lounge parlor, walk-in wardrobe, and jacuzzi overlooking the horizon.",
+      "amenities": [
+        "Separate Living Parlor",
+        "Panoramic Jacuzzi Tub",
+        "Walk-in Dressing Closet",
+        "Complimentary Lounge Access"
+      ],
+      "featured": true
+    },
+    {
+      "id": "room-303",
+      "name": "Celestial Sky Villa",
+      "category": "Sky Villa",
+      "tagline": "Private rooftop terrace with infinity plunge pool",
+      "pricePerNight": 28000,
+      "rating": 4.99,
+      "reviewsCount": 67,
+      "sqft": 1400,
+      "maxGuests": 4,
+      "bedType": "2 Super King Beds",
+      "view": "360° Ocean & Mountain Panorama",
+      "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "An architectural masterpiece perched on top floors. Boasts a private infinity plunge pool on the wooden deck, outdoor sun lounge, full chef kitchenette, and dedicated personal butler.",
+      "amenities": [
+        "Private Outdoor Plunge Pool",
+        "Dedicated Private Chef Option",
+        "Full Cocktail Bar Counter",
+        "Bose Surround Sound System"
+      ],
+      "featured": true
+    },
+    {
+      "id": "room-404",
+      "name": "The Imperial Grand Penthouse",
+      "category": "Penthouse",
+      "tagline": "The pinnacle of global ultra-luxury living",
+      "pricePerNight": 45000,
+      "rating": 5,
+      "reviewsCount": 42,
+      "sqft": 2200,
+      "maxGuests": 6,
+      "bedType": "3 King Suites",
+      "view": "Panoramic Coastline & City Skyline",
+      "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Spanning the entirety of the top floor with private keycard elevator access. Designed with handcrafted Italian furniture, private spa room, grand piano, and dining room seating 10 guests.",
+      "amenities": [
+        "Private Express Elevator",
+        "Grand Piano Lounge",
+        "Private In-Villa Spa Suite",
+        "24-Hour Private Valet & Butler"
+      ]
+    }
+  ],
+  "foodItems": [
+    {
+      "id": "food-101",
+      "name": "Signature Royale Eggs Benedict",
+      "category": "breakfast",
+      "price": 450,
+      "description": "Poached organic eggs on artisan brioche, smoked Scottish salmon, sturgeon caviar, and saffron hollandaise sauce.",
+      "image": "https://images.unsplash.com/photo-1608039829572-78524f79c4c7?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 20,
+      "calories": 580,
+      "isChefSpecial": true,
+      "customizations": {
+        "spiceLevels": [
+          "Non-spicy",
+          "Mild",
+          "Spicy"
+        ],
+        "options": [
+          {
+            "id": "opt-1",
+            "name": "Extra Sturgeon Caviar (10g)",
+            "price": 180
+          },
+          {
+            "id": "opt-2",
+            "name": "Avocado Roses",
+            "price": 60
+          },
+          {
+            "id": "opt-3",
+            "name": "Truffled Hash Browns",
+            "price": 80
+          }
+        ]
+      },
+      "isAvailable": true
+    },
+    {
+      "id": "food-102",
+      "name": "Fluffy Soufflé Pancakes with Gold Leaf",
+      "category": "breakfast",
+      "price": 380,
+      "description": "Japanese-style airy soufflé pancakes served with Madagascar vanilla whipped cream, fresh organic berries, and edible 24k gold leaf.",
+      "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 25,
+      "calories": 620,
+      "isVegetarian": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-4",
+            "name": "Pure Vermont Maple Syrup",
+            "price": 40
+          },
+          {
+            "id": "opt-5",
+            "name": "Extra Wild Berries",
+            "price": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-103",
+      "name": "Artisanal Acai & Dragonfruit Bowl",
+      "category": "breakfast",
+      "price": 320,
+      "description": "Organic Amazonian acai bowl topped with kiwi, chia seeds, house-baked almond granola, coconut flakes, and passionfruit drizzle.",
+      "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 15,
+      "calories": 380,
+      "isVegetarian": true,
+      "isVegan": true,
+      "isGlutenFree": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-6",
+            "name": "Add Almond Butter",
+            "price": 40
+          },
+          {
+            "id": "opt-7",
+            "name": "Add Protein Powder",
+            "price": 50
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-201",
+      "name": "Wagyu A5 Filet Mignon with Truffle Butter",
+      "category": "mains",
+      "price": 1850,
+      "description": "Mouth-watering Japanese Miyazaki Wagyu A5 (6oz), charbroiled, served with black truffle pomme purée, seared asparagus, and red wine reduction.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 30,
+      "calories": 820,
+      "isGlutenFree": true,
+      "isChefSpecial": true,
+      "customizations": {
+        "spiceLevels": [
+          "Rare",
+          "Medium Rare",
+          "Medium",
+          "Medium Well"
+        ],
+        "options": [
+          {
+            "id": "opt-8",
+            "name": "Pan-seared Foie Gras (2oz)",
+            "price": 450
+          },
+          {
+            "id": "opt-9",
+            "name": "Grilled Lobster Tail",
+            "price": 650
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-202",
+      "name": "Wild Pan-Seared Chilean Sea Bass",
+      "category": "mains",
+      "price": 1350,
+      "description": "Sustainably caught Sea Bass over lemon herb risotto, baby heirloom carrots, and saffron beurre blanc sauce.",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 25,
+      "calories": 640,
+      "isGlutenFree": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-10",
+            "name": "Extra Risotto",
+            "price": 180
+          },
+          {
+            "id": "opt-11",
+            "name": "Crispy Capers & Dill",
+            "price": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-301",
+      "name": "Black Truffle & Porcini Tagliatelle",
+      "category": "pizza_pasta",
+      "price": 850,
+      "description": "Fresh handmade egg pasta, wild porcini mushrooms, rich Parmigiano Reggiano cream, shaved fresh Umbrian black truffle.",
+      "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 20,
+      "calories": 710,
+      "isVegetarian": true,
+      "isChefSpecial": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-12",
+            "name": "Extra Shaved Truffle",
+            "price": 250
+          },
+          {
+            "id": "opt-13",
+            "name": "Add Grilled Shrimp",
+            "price": 200
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-302",
+      "name": "Artisan Burrata & Prosciutto Pizza",
+      "category": "pizza_pasta",
+      "price": 750,
+      "description": "Wood-fired sourdough crust, San Marzano tomato sauce, fresh creamy Burrata cheese, 24-month Prosciutto di Parma, and baby arugula.",
+      "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 20,
+      "calories": 890,
+      "customizations": {
+        "spiceLevels": [
+          "Classic",
+          "Spicy Chili Oil",
+          "Extra Hot Honey"
+        ],
+        "options": [
+          {
+            "id": "opt-14",
+            "name": "Hot Honey Drizzle",
+            "price": 50
+          },
+          {
+            "id": "opt-15",
+            "name": "Gluten-Free Crust",
+            "price": 80
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-401",
+      "name": "Grand Chocolate Sphere with Hot Fudge",
+      "category": "desserts",
+      "price": 380,
+      "description": "Dark Belgian Valrhona chocolate dome melted tableside with warm salted caramel fudge, revealing hazelnut praline & vanilla bean gelato inside.",
+      "image": "https://images.unsplash.com/photo-1579372786545-d24232daf58c?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 15,
+      "calories": 690,
+      "isVegetarian": true,
+      "isChefSpecial": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-16",
+            "name": "Extra Vanilla Gelato Scoop",
+            "price": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-402",
+      "name": "Classic Venetian Tiramisu Royale",
+      "category": "desserts",
+      "price": 320,
+      "description": "Layered espresso-soaked ladyfingers, aged dark rum, light mascarpone cream, and Dutch cocoa dust.",
+      "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 10,
+      "calories": 520,
+      "isVegetarian": true
+    },
+    {
+      "id": "food-501",
+      "name": "Smoked Bourbon Old Fashioned",
+      "category": "beverages",
+      "price": 450,
+      "description": "Small-batch Woodford Reserve Bourbon, Angostura bitters, organic demerara, smoked under applewood woodchip dome.",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 10,
+      "calories": 180,
+      "isChefSpecial": true,
+      "customizations": {
+        "spiceLevels": [
+          "Single Shot",
+          "Double Shot"
+        ],
+        "options": [
+          {
+            "id": "opt-501a",
+            "name": "Extra Ice Sphere",
+            "price": 20
+          },
+          {
+            "id": "opt-501b",
+            "name": "Aged Maraschino Cherry",
+            "price": 30
+          }
+        ]
+      },
+      "isAvailable": true
+    },
+    {
+      "id": "food-502",
+      "name": "Dom Pérignon Vintage Champagne 2013",
+      "category": "beverages",
+      "price": 1250,
+      "description": "Grand Cuvée vintage champagne featuring vibrant notes of white peach, toasted brioche, and crisp mineral effervescence. Served chilled with crystal flutes.",
+      "image": "https://images.unsplash.com/photo-1569919659476-f0852f6834b7?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 5,
+      "calories": 150,
+      "isChefSpecial": true,
+      "isGlutenFree": true,
+      "isVegan": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-502a",
+            "name": "Fresh Organic Strawberries",
+            "price": 80
+          },
+          {
+            "id": "opt-502b",
+            "name": "Sturgeon Caviar Side (10g)",
+            "price": 250
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-503",
+      "name": "Château Margaux Premier Grand Cru Classé 2015",
+      "category": "beverages",
+      "price": 1950,
+      "description": "Iconic Bordeaux Premier Grand Cru Classé red wine with notes of blackcurrant, violets, cedarwood, and silky refined tannins. Decanted table side.",
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 10,
+      "calories": 160,
+      "isGlutenFree": true,
+      "isVegan": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-503a",
+            "name": "Sommelier Decanting Service",
+            "price": 50
+          },
+          {
+            "id": "opt-503b",
+            "name": "Aged Gouda Cheese Pairing",
+            "price": 120
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-504",
+      "name": "Royal Sapphire Botanical Gin & Tonic",
+      "category": "beverages",
+      "price": 380,
+      "description": "Empress 1908 Indigo Gin, fever-tree elderflower tonic, butterfly pea flower, fresh rosemary sprig, and edible orchid blossom.",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 8,
+      "calories": 140,
+      "isVegetarian": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-504a",
+            "name": "Extra Elderflower Tonic",
+            "price": 40
+          },
+          {
+            "id": "opt-504b",
+            "name": "Edible 24k Gold Flakes",
+            "price": 60
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-505",
+      "name": "Velvet Espresso Martini Royale",
+      "category": "beverages",
+      "price": 420,
+      "description": "Grey Goose VX vodka, freshly brewed Jamaican Blue Mountain espresso, Kahlúa liqueur, and Madagascar vanilla bean syrup, dusted with gold cocoa.",
+      "image": "https://images.unsplash.com/photo-1545438102-799c3991ffb2?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 8,
+      "calories": 210,
+      "isChefSpecial": true,
+      "customizations": {
+        "spiceLevels": [
+          "Classic Single Shot",
+          "Double Shot Espresso"
+        ],
+        "options": [
+          {
+            "id": "opt-505a",
+            "name": "Vanilla Cream Cold Foam",
+            "price": 30
+          },
+          {
+            "id": "opt-505b",
+            "name": "Artisan Dark Chocolate Truffle",
+            "price": 50
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-506",
+      "name": "Exotic Dragonfruit & Coconut Tonic (Mocktail)",
+      "category": "beverages",
+      "price": 280,
+      "description": "Fresh cold-pressed dragonfruit, organic coconut water, kaffir lime syrup, crushed mint, and sparkling soda. Refreshing non-alcoholic cocktail.",
+      "image": "https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 8,
+      "calories": 130,
+      "isVegetarian": true,
+      "isVegan": true,
+      "isGlutenFree": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-506a",
+            "name": "Add Chia Seeds",
+            "price": 30
+          },
+          {
+            "id": "opt-506b",
+            "name": "Extra Passion Fruit Pulp",
+            "price": 40
+          }
+        ]
+      }
+    },
+    {
+      "id": "food-507",
+      "name": "Freshly Pressed Exotic Detox Elixir",
+      "category": "beverages",
+      "price": 250,
+      "description": "Cold-pressed green apple, ginger root, organic turmeric, mint leaves, and coconut water.",
+      "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 10,
+      "calories": 120,
+      "isVegetarian": true,
+      "isVegan": true,
+      "isGlutenFree": true
+    },
+    {
+      "id": "food-508",
+      "name": "Truffled Charcuterie & Artisanal Cheese Platter",
+      "category": "beverages",
+      "price": 850,
+      "description": "Chef gourmet pairing dish featuring 24-month Prosciutto di Parma, Truffled Gouda, Camembert, French baguette, fig preserve, and Marcona almonds.",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+      "prepTimeMinutes": 15,
+      "calories": 580,
+      "isChefSpecial": true,
+      "customizations": {
+        "options": [
+          {
+            "id": "opt-508a",
+            "name": "Gluten-Free Artisan Crackers",
+            "price": 50
+          },
+          {
+            "id": "opt-508b",
+            "name": "Extra Truffled Honey Drizzle",
+            "price": 60
+          }
+        ]
+      }
+    }
+  ],
+  "amenities": [
+    {
+      "id": "amenity-1",
+      "title": "Aura Horizon Spa & Wellness Center",
+      "description": "Full-body aromatherapy treatments, hydrotherapy pools, dry saunas, and cliffside private cabanas.",
+      "iconName": "Sparkles",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
+      "hours": "07:00 AM - 10:00 PM",
+      "location": "5th Floor Wellness Pavilion"
+    },
+    {
+      "id": "amenity-2",
+      "title": "Rooftop Infinity Sky Pool",
+      "description": "Heated infinity edge pool overlooking the ocean horizon with sunbeds and cocktail service.",
+      "iconName": "Waves",
+      "image": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=800&q=80",
+      "hours": "06:00 AM - 11:00 PM",
+      "location": "Rooftop 18th Floor"
+    },
+    {
+      "id": "amenity-3",
+      "title": "L’Etoile Michelin Fine Dining",
+      "description": "Multi-course tasting menus paired with rare vintages from our award-winning wine cellar.",
+      "iconName": "Utensils",
+      "image": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=800&q=80",
+      "hours": "06:00 PM - 11:00 PM",
+      "location": "Ground Floor Lobby Garden"
+    }
+  ],
+  "bookings": [],
+  "orders": [],
+  "contacts": [],
+  "roomStatuses": [
+    {
+      "roomNumber": "101",
+      "roomData": {
+        "id": "room-101",
+        "name": "Royal Oceanfront Deluxe",
+        "category": "Deluxe",
+        "tagline": "Panoramic coastal luxury with private balcony sunbed",
+        "pricePerNight": 8500,
+        "rating": 4.9,
+        "reviewsCount": 128,
+        "sqft": 550,
+        "maxGuests": 2,
+        "bedType": "1 King Bed",
+        "view": "Oceanfront Sunset",
+        "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Immerse yourself in coastal elegance. Features floor-to-ceiling soundproof windows, marble bathroom with rainfall shower, automated black-out shades, and premium sound systems.",
+        "amenities": [
+          "King Pillowtop Mattress",
+          "Private Ocean Balcony",
+          "Marble Bath & Rain Shower",
+          "Espresso Bar & Minibar",
+          "24/7 Butler Service",
+          "High-Speed Wi-Fi 6",
+          "Smart Room Control iPad"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "102",
+      "roomData": {
+        "id": "room-101",
+        "name": "Royal Oceanfront Deluxe",
+        "category": "Deluxe",
+        "tagline": "Panoramic coastal luxury with private balcony sunbed",
+        "pricePerNight": 8500,
+        "rating": 4.9,
+        "reviewsCount": 128,
+        "sqft": 550,
+        "maxGuests": 2,
+        "bedType": "1 King Bed",
+        "view": "Oceanfront Sunset",
+        "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Immerse yourself in coastal elegance. Features floor-to-ceiling soundproof windows, marble bathroom with rainfall shower, automated black-out shades, and premium sound systems.",
+        "amenities": [
+          "King Pillowtop Mattress",
+          "Private Ocean Balcony",
+          "Marble Bath & Rain Shower",
+          "Espresso Bar & Minibar",
+          "24/7 Butler Service",
+          "High-Speed Wi-Fi 6",
+          "Smart Room Control iPad"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "103",
+      "roomData": {
+        "id": "room-101",
+        "name": "Royal Oceanfront Deluxe",
+        "category": "Deluxe",
+        "tagline": "Panoramic coastal luxury with private balcony sunbed",
+        "pricePerNight": 8500,
+        "rating": 4.9,
+        "reviewsCount": 128,
+        "sqft": 550,
+        "maxGuests": 2,
+        "bedType": "1 King Bed",
+        "view": "Oceanfront Sunset",
+        "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Immerse yourself in coastal elegance. Features floor-to-ceiling soundproof windows, marble bathroom with rainfall shower, automated black-out shades, and premium sound systems.",
+        "amenities": [
+          "King Pillowtop Mattress",
+          "Private Ocean Balcony",
+          "Marble Bath & Rain Shower",
+          "Espresso Bar & Minibar",
+          "24/7 Butler Service",
+          "High-Speed Wi-Fi 6",
+          "Smart Room Control iPad"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "104",
+      "roomData": {
+        "id": "room-101",
+        "name": "Royal Oceanfront Deluxe",
+        "category": "Deluxe",
+        "tagline": "Panoramic coastal luxury with private balcony sunbed",
+        "pricePerNight": 8500,
+        "rating": 4.9,
+        "reviewsCount": 128,
+        "sqft": 550,
+        "maxGuests": 2,
+        "bedType": "1 King Bed",
+        "view": "Oceanfront Sunset",
+        "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Immerse yourself in coastal elegance. Features floor-to-ceiling soundproof windows, marble bathroom with rainfall shower, automated black-out shades, and premium sound systems.",
+        "amenities": [
+          "King Pillowtop Mattress",
+          "Private Ocean Balcony",
+          "Marble Bath & Rain Shower",
+          "Espresso Bar & Minibar",
+          "24/7 Butler Service",
+          "High-Speed Wi-Fi 6",
+          "Smart Room Control iPad"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "201",
+      "roomData": {
+        "id": "room-202",
+        "name": "Horizon Executive Suite",
+        "category": "Executive Suite",
+        "tagline": "Spacious living suite with deep soaking spa tub",
+        "pricePerNight": 14500,
+        "rating": 4.95,
+        "reviewsCount": 94,
+        "sqft": 850,
+        "maxGuests": 3,
+        "bedType": "1 Emperor King + Daybed",
+        "view": "Skyline & Ocean Dual View",
+        "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Designed for executive travelers and couples seeking ultimate space. Includes a secluded lounge parlor, walk-in wardrobe, and jacuzzi overlooking the horizon.",
+        "amenities": [
+          "Separate Living Parlor",
+          "Panoramic Jacuzzi Tub",
+          "Walk-in Dressing Closet",
+          "Complimentary Lounge Access",
+          "Diptyque Paris Amenities",
+          "In-Room Dining Dining Table",
+          "Daily Champagne Turndown"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "202",
+      "roomData": {
+        "id": "room-202",
+        "name": "Horizon Executive Suite",
+        "category": "Executive Suite",
+        "tagline": "Spacious living suite with deep soaking spa tub",
+        "pricePerNight": 14500,
+        "rating": 4.95,
+        "reviewsCount": 94,
+        "sqft": 850,
+        "maxGuests": 3,
+        "bedType": "1 Emperor King + Daybed",
+        "view": "Skyline & Ocean Dual View",
+        "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Designed for executive travelers and couples seeking ultimate space. Includes a secluded lounge parlor, walk-in wardrobe, and jacuzzi overlooking the horizon.",
+        "amenities": [
+          "Separate Living Parlor",
+          "Panoramic Jacuzzi Tub",
+          "Walk-in Dressing Closet",
+          "Complimentary Lounge Access",
+          "Diptyque Paris Amenities",
+          "In-Room Dining Dining Table",
+          "Daily Champagne Turndown"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "203",
+      "roomData": {
+        "id": "room-202",
+        "name": "Horizon Executive Suite",
+        "category": "Executive Suite",
+        "tagline": "Spacious living suite with deep soaking spa tub",
+        "pricePerNight": 14500,
+        "rating": 4.95,
+        "reviewsCount": 94,
+        "sqft": 850,
+        "maxGuests": 3,
+        "bedType": "1 Emperor King + Daybed",
+        "view": "Skyline & Ocean Dual View",
+        "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Designed for executive travelers and couples seeking ultimate space. Includes a secluded lounge parlor, walk-in wardrobe, and jacuzzi overlooking the horizon.",
+        "amenities": [
+          "Separate Living Parlor",
+          "Panoramic Jacuzzi Tub",
+          "Walk-in Dressing Closet",
+          "Complimentary Lounge Access",
+          "Diptyque Paris Amenities",
+          "In-Room Dining Dining Table",
+          "Daily Champagne Turndown"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "204",
+      "roomData": {
+        "id": "room-202",
+        "name": "Horizon Executive Suite",
+        "category": "Executive Suite",
+        "tagline": "Spacious living suite with deep soaking spa tub",
+        "pricePerNight": 14500,
+        "rating": 4.95,
+        "reviewsCount": 94,
+        "sqft": 850,
+        "maxGuests": 3,
+        "bedType": "1 Emperor King + Daybed",
+        "view": "Skyline & Ocean Dual View",
+        "image": "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1591088398332-8a7791972843?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Designed for executive travelers and couples seeking ultimate space. Includes a secluded lounge parlor, walk-in wardrobe, and jacuzzi overlooking the horizon.",
+        "amenities": [
+          "Separate Living Parlor",
+          "Panoramic Jacuzzi Tub",
+          "Walk-in Dressing Closet",
+          "Complimentary Lounge Access",
+          "Diptyque Paris Amenities",
+          "In-Room Dining Dining Table",
+          "Daily Champagne Turndown"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "301",
+      "roomData": {
+        "id": "room-303",
+        "name": "Celestial Sky Villa",
+        "category": "Sky Villa",
+        "tagline": "Private rooftop terrace with infinity plunge pool",
+        "pricePerNight": 28000,
+        "rating": 4.99,
+        "reviewsCount": 67,
+        "sqft": 1400,
+        "maxGuests": 4,
+        "bedType": "2 Super King Beds",
+        "view": "360° Ocean & Mountain Panorama",
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "An architectural masterpiece perched on top floors. Boasts a private infinity plunge pool on the wooden deck, outdoor sun lounge, full chef kitchenette, and dedicated personal butler.",
+        "amenities": [
+          "Private Outdoor Plunge Pool",
+          "Dedicated Private Chef Option",
+          "Full Cocktail Bar Counter",
+          "Bose Surround Sound System",
+          "VIP Airport Limousine Transfer",
+          "Custom Wine Cabinet",
+          "Steam Sauna Room"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "302",
+      "roomData": {
+        "id": "room-303",
+        "name": "Celestial Sky Villa",
+        "category": "Sky Villa",
+        "tagline": "Private rooftop terrace with infinity plunge pool",
+        "pricePerNight": 28000,
+        "rating": 4.99,
+        "reviewsCount": 67,
+        "sqft": 1400,
+        "maxGuests": 4,
+        "bedType": "2 Super King Beds",
+        "view": "360° Ocean & Mountain Panorama",
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "An architectural masterpiece perched on top floors. Boasts a private infinity plunge pool on the wooden deck, outdoor sun lounge, full chef kitchenette, and dedicated personal butler.",
+        "amenities": [
+          "Private Outdoor Plunge Pool",
+          "Dedicated Private Chef Option",
+          "Full Cocktail Bar Counter",
+          "Bose Surround Sound System",
+          "VIP Airport Limousine Transfer",
+          "Custom Wine Cabinet",
+          "Steam Sauna Room"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "303",
+      "roomData": {
+        "id": "room-303",
+        "name": "Celestial Sky Villa",
+        "category": "Sky Villa",
+        "tagline": "Private rooftop terrace with infinity plunge pool",
+        "pricePerNight": 28000,
+        "rating": 4.99,
+        "reviewsCount": 67,
+        "sqft": 1400,
+        "maxGuests": 4,
+        "bedType": "2 Super King Beds",
+        "view": "360° Ocean & Mountain Panorama",
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "An architectural masterpiece perched on top floors. Boasts a private infinity plunge pool on the wooden deck, outdoor sun lounge, full chef kitchenette, and dedicated personal butler.",
+        "amenities": [
+          "Private Outdoor Plunge Pool",
+          "Dedicated Private Chef Option",
+          "Full Cocktail Bar Counter",
+          "Bose Surround Sound System",
+          "VIP Airport Limousine Transfer",
+          "Custom Wine Cabinet",
+          "Steam Sauna Room"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "304",
+      "roomData": {
+        "id": "room-303",
+        "name": "Celestial Sky Villa",
+        "category": "Sky Villa",
+        "tagline": "Private rooftop terrace with infinity plunge pool",
+        "pricePerNight": 28000,
+        "rating": 4.99,
+        "reviewsCount": 67,
+        "sqft": 1400,
+        "maxGuests": 4,
+        "bedType": "2 Super King Beds",
+        "view": "360° Ocean & Mountain Panorama",
+        "image": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=800&q=80",
+          "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "An architectural masterpiece perched on top floors. Boasts a private infinity plunge pool on the wooden deck, outdoor sun lounge, full chef kitchenette, and dedicated personal butler.",
+        "amenities": [
+          "Private Outdoor Plunge Pool",
+          "Dedicated Private Chef Option",
+          "Full Cocktail Bar Counter",
+          "Bose Surround Sound System",
+          "VIP Airport Limousine Transfer",
+          "Custom Wine Cabinet",
+          "Steam Sauna Room"
+        ],
+        "featured": true
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "401",
+      "roomData": {
+        "id": "room-404",
+        "name": "The Imperial Grand Penthouse",
+        "category": "Penthouse",
+        "tagline": "The pinnacle of global ultra-luxury living",
+        "pricePerNight": 45000,
+        "rating": 5,
+        "reviewsCount": 42,
+        "sqft": 2200,
+        "maxGuests": 6,
+        "bedType": "3 King Suites",
+        "view": "Panoramic Coastline & City Skyline",
+        "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Spanning the entirety of the top floor with private keycard elevator access. Designed with handcrafted Italian furniture, private spa room, grand piano, and dining room seating 10 guests.",
+        "amenities": [
+          "Private Express Elevator",
+          "Grand Piano Lounge",
+          "Private In-Villa Spa Suite",
+          "10-Seat Formal Dining Room",
+          "24-Hour Private Valet & Butler",
+          "Unlimited In-Room Dining Menu",
+          "Private Helicopter Helipad Access"
+        ]
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "402",
+      "roomData": {
+        "id": "room-404",
+        "name": "The Imperial Grand Penthouse",
+        "category": "Penthouse",
+        "tagline": "The pinnacle of global ultra-luxury living",
+        "pricePerNight": 45000,
+        "rating": 5,
+        "reviewsCount": 42,
+        "sqft": 2200,
+        "maxGuests": 6,
+        "bedType": "3 King Suites",
+        "view": "Panoramic Coastline & City Skyline",
+        "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Spanning the entirety of the top floor with private keycard elevator access. Designed with handcrafted Italian furniture, private spa room, grand piano, and dining room seating 10 guests.",
+        "amenities": [
+          "Private Express Elevator",
+          "Grand Piano Lounge",
+          "Private In-Villa Spa Suite",
+          "10-Seat Formal Dining Room",
+          "24-Hour Private Valet & Butler",
+          "Unlimited In-Room Dining Menu",
+          "Private Helicopter Helipad Access"
+        ]
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "403",
+      "roomData": {
+        "id": "room-404",
+        "name": "The Imperial Grand Penthouse",
+        "category": "Penthouse",
+        "tagline": "The pinnacle of global ultra-luxury living",
+        "pricePerNight": 45000,
+        "rating": 5,
+        "reviewsCount": 42,
+        "sqft": 2200,
+        "maxGuests": 6,
+        "bedType": "3 King Suites",
+        "view": "Panoramic Coastline & City Skyline",
+        "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Spanning the entirety of the top floor with private keycard elevator access. Designed with handcrafted Italian furniture, private spa room, grand piano, and dining room seating 10 guests.",
+        "amenities": [
+          "Private Express Elevator",
+          "Grand Piano Lounge",
+          "Private In-Villa Spa Suite",
+          "10-Seat Formal Dining Room",
+          "24-Hour Private Valet & Butler",
+          "Unlimited In-Room Dining Menu",
+          "Private Helicopter Helipad Access"
+        ]
+      },
+      "status": "vacant"
+    },
+    {
+      "roomNumber": "404",
+      "roomData": {
+        "id": "room-404",
+        "name": "The Imperial Grand Penthouse",
+        "category": "Penthouse",
+        "tagline": "The pinnacle of global ultra-luxury living",
+        "pricePerNight": 45000,
+        "rating": 5,
+        "reviewsCount": 42,
+        "sqft": 2200,
+        "maxGuests": 6,
+        "bedType": "3 King Suites",
+        "view": "Panoramic Coastline & City Skyline",
+        "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=1200&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&w=800&q=80"
+        ],
+        "description": "Spanning the entirety of the top floor with private keycard elevator access. Designed with handcrafted Italian furniture, private spa room, grand piano, and dining room seating 10 guests.",
+        "amenities": [
+          "Private Express Elevator",
+          "Grand Piano Lounge",
+          "Private In-Villa Spa Suite",
+          "10-Seat Formal Dining Room",
+          "24-Hour Private Valet & Butler",
+          "Unlimited In-Room Dining Menu",
+          "Private Helicopter Helipad Access"
+        ]
+      },
+      "status": "vacant"
+    }
+  ]
+}

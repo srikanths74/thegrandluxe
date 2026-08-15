@@ -1,0 +1,81 @@
+[
+  {
+    "id": "usr_srikanth_stephen",
+    "name": "Srikanth Stephen",
+    "email": "srikanthstephen2007@gmail.com",
+    "passwordHash": "4a5c7a9c94e3f2a7c7ed77c052e735c0:0765f705bb5dbeaef21e50027634df70913121523220172ceecf984750cbafebdb327ec046d2bf8dccf81f0573d0cb7adabbe9c4bea0a415b0d28480de17fdab",
+    "phone": "+91 98765 43210",
+    "avatarUrl": "https://ui-avatars.com/api/?name=Srikanth+Stephen&background=2F7BFF&color=fff",
+    "isGoogle": true,
+    "createdAt": "2026-08-02T22:24:00.000Z",
+    "updatedAt": "2026-08-04T08:20:39.333Z",
+    "verificationToken": "evt_1785751970243_f9f450e00602ace4",
+    "tokenExpires": 1785752870244
+  },
+  {
+    "id": "usr_srikanth_1",
+    "name": "srikanth",
+    "email": "srikanthsuresh2007@gmail.com",
+    "passwordHash": "a1b2c3d4e5f6:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "phone": "+91 74187 90420",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+    "isGoogle": true,
+    "createdAt": "2026-08-02T22:24:00.000Z",
+    "updatedAt": "2026-08-02T22:24:00.000Z"
+  },
+  {
+    "id": "usr_priya_2",
+    "name": "Priya Patel",
+    "email": "priya.patel@gmail.com",
+    "passwordHash": "a1b2c3d4e5f6:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "phone": "+91 91234 56789",
+    "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+    "isGoogle": false,
+    "createdAt": "2026-08-02T22:24:00.000Z",
+    "updatedAt": "2026-08-02T22:24:00.000Z"
+  },
+  {
+    "id": "usr_1785691583231_1mupw",
+    "name": "Ramya",
+    "email": "ramya@gmail.com",
+    "passwordHash": "b813f0c49dae91addffa721f43e4df7f:3045d21e4e647250d26bb8ddaa07aefffb32441a202068dc182cb631cc2d212fa5b73a2fbbe98a420c55e187b846c56705211a7e8199de49472305e18eaf76b2",
+    "phone": "+91 98765 43210",
+    "avatarUrl": "https://ui-avatars.com/api/?name=Ramya&background=2F7BFF&color=fff",
+    "isGoogle": false,
+    "createdAt": "2026-08-02T17:26:23.476Z",
+    "updatedAt": "2026-08-02T17:26:23.476Z"
+  },
+  {
+    "id": "usr_1785739320802_ovpge",
+    "name": "Admin",
+    "email": "admin@grandluxe.com",
+    "passwordHash": "65e567a349facf5c9392ae5872eea1fd:2735e337a86c462cab6c7dea5636f6c2435867ff53aa1b95eca2216ff47193a6854789a26f1278a8812aa98ac83d22cdcefeb575624f0ab3c058540657990ee9",
+    "phone": "+91 98765 43210",
+    "avatarUrl": "https://ui-avatars.com/api/?name=Admin&background=2F7BFF&color=fff",
+    "isGoogle": false,
+    "createdAt": "2026-08-03T06:42:01.049Z",
+    "updatedAt": "2026-08-03T06:42:01.049Z"
+  },
+  {
+    "id": "usr_1785772108724_tdyo8",
+    "name": "srikanth",
+    "email": "srinathsrinath7844@gmail.com",
+    "passwordHash": "b8635cbf73aeff2846659a2c18049c47:9869c784f79ce8fc1e6e35b6f75e0b1df4c9bbc98be4234494c1d24fc0b196c4a5e5997467cce78a99c786ab9117f1d93e4e04632b95b3358d382aadd451f041",
+    "phone": "7418790420",
+    "avatarUrl": "https://ui-avatars.com/api/?name=srikanth&background=2F7BFF&color=fff",
+    "isGoogle": false,
+    "createdAt": "2026-08-03T15:48:28.976Z",
+    "updatedAt": "2026-08-03T15:48:28.976Z"
+  },
+  {
+    "id": "usr_1785777749606_42gdr",
+    "name": "SRIKANTH S B.Sc.-Computer Science",
+    "email": "2401721058045@mcc.edu.in",
+    "passwordHash": "2288c1888bcedd3f001e2a00c1b621e1:0d68d71088101e615841e4ea6e5e9ecf146fb486b3e4ddebc39482e048ff4e5f53bb8d71c564b2a5c728ec10eec06de21d08ad3a813b9479242017b7b1635e39",
+    "phone": "+91 98765 43210",
+    "avatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocIR5glNKgUp6txu6G1mK1tR6pIeoyMcTY8dOVwaOQk-lHFeiA=s96-c",
+    "isGoogle": true,
+    "createdAt": "2026-08-03T17:22:29.789Z",
+    "updatedAt": "2026-08-03T17:22:29.789Z"
+  }
+]
